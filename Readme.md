@@ -8,4 +8,7 @@
 ### 09:00 - Start Work
 
 ## Afternoon
+### 12:00 - Lunch
+### 13:00 - Continue Work
+### 15:00 - Break
 ## Evening
